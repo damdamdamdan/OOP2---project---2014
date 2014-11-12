@@ -1,5 +1,5 @@
 public class Pet{
-
+//you fucking suck
 	private int age;
 	private String type;
 	private String [] vaccinations;
